@@ -28,6 +28,8 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-devkit/core": "^8.3.16",
+    "@angular-devkit/schematics": "^8.3.16",
     "@angular/animations": "5.2.0",
     "@angular/common": "5.2.0",
     "@angular/compiler": "5.2.0",
